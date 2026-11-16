@@ -1,0 +1,6 @@
+{
+  "name": "Vídeo Tela Cheia",
+  "description": "Aplicação simples para reprodução de vídeo em tela cheia com repetição contínua.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
